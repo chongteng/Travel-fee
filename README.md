@@ -17,6 +17,6 @@
 * GUI傻瓜界面
 
 #途径
-* Python
+* VBA/python/java
 * Tkinter等GUI
-* 算法可以用excel试试
+* 可以先用Excel试探一下基本的算法
